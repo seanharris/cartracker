@@ -1,5 +1,7 @@
 This was a one day "hackathon" project to track a car across a sequence of images.
 
+Results / debugging output can be seen here: https://youtu.be/92AjZ-sZN7A
+
 Project attempted: to track the car in the image sequence
 
 Open source code used: OpenCV, used for:
